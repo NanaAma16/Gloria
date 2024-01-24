@@ -7,9 +7,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "{{< fa house>}} Home"
+        text: "{{< fa house >}} Home"
       - href: CV.qmd
-        text: "{{< fa user-tie>}} CV"
+        text: "{{< fa user-tie >}} CV"
 
 format:
   html:
