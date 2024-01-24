@@ -1,30 +1,25 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 ---
 
 ## Contact Information
 
-{{< fa envelope >}} [l.clair\@uwinnipeg.ca](mailto:l.clair@uwinnipeg.ca)
+{{< fa envelope >}} [gnaboadi\@mun.ca](mailto:l.clair@uwinnipeg.ca)
 
-{{< fa phone >}} (204) 789-4216
+{{< fa phone >}} (709) 219-6808
 
 {{< fa paper-plane >}} Department of Economics\
-     University of Winnipeg\
-     515 Portage Avenue\
-     Winnipeg, MB, Canada\
-     R3B 2E9
-
-## Academic Profiles and Website
-
--   {{< fa user >}} Personal Website: [www.lclair.ca](http://www.lclair.ca)
--   {{< fa seedling >}} Canadian Centre for Agri-Food Research in Health and Medicine: [www.sbrc.ca/clair](http://www.sbrc.ca/clair)
--   {{< fa graduation-cap >}} Rate My Professor: [www.ratemyprofessors.com](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2334849)
+     Memorial University of Newfoundland\
+     100 Elizabeth Avenue\
+     St. John's, NL\
+     A1C 5S7
 
 ## Education
 
--   Ph.D. Economics (2017), McMaster University (Supervisor Dr. Jeffrey Racine)\
--   M.A. Economics (2012), Memorial University of Newfoundland
--   B.Sc. Pure Mathematics and Economics (2008), Memorial University of Newfoundland
+-   M.A. Economics (2023 to date), Memorial University of Newfoundland\
+-   PGD. Economics (2023), Memorial University of Newfoundland
+-   Investment and Securities Certificate (2018), Ghana Stock Exchange School
+-   B.A. Economics with Mathematics (2016), University of Ghana, Legon
 
 ## Current Positions
 
