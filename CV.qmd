@@ -4,7 +4,7 @@ title: "CV"
 
 ## Contact Information
 
-{{< fa envelope >}} [gnaboadi\@mun.ca](mailto:l.clair@uwinnipeg.ca)
+{{< fa envelope >}} [gnaboadi\@mun.ca]
 
 {{< fa phone >}} (709) 219-6808
 
@@ -21,10 +21,9 @@ title: "CV"
 -   Investment and Securities Certificate (2018), Ghana Stock Exchange School
 -   B.A. Economics with Mathematics (2016), University of Ghana, Legon
 
-## Current Positions
+## Professional Summary
 
--   Associate Professor (2022-), Department of Economics, University of Winnipeg.
--   Principal Investigator (2017-), Agriculture/Health Economics, Canadian Centre for Agri-Food Research in Health and Medicine.
+-   High performing financial professional with five years of experience in data analysis, investment advisory, credit risk analysis, economic analysis, and people management. Technically astute and proficient in gathering, analyzing, and forecasting panel data, time series, cross-sectional and pooled data. Strong track record of inspiring effective cross functional collaboration and innovative problem solving in a high-stake setting and committed to team improvement and impacting team success. 
 
 ## Previous Positions
 
