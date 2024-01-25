@@ -9,7 +9,7 @@ format: html
 
 ::: columns
 ::: {.column width="40%"}
-  ![](3B711248-8DA9-4410-A529-8BB61655CBAC_1_201_a-modified.png)
+  ![](WhatsApp Image 2024-01-25 .jpg)
 :::
 
 ::: {.column width="60%"}

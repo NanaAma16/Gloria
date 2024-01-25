@@ -14,6 +14,57 @@ title: "CV"
      St. John's, NL\
      A1C 5S7
 
+
+
+## Professional Summary
+
+-   High performing financial professional with five years of experience in data analysis, investment advisory, credit risk analysis, economic analysis, and people management. Technically astute and proficient in gathering, analyzing, and forecasting panel data, time series, cross-sectional and pooled data. Strong track record of inspiring effective cross functional collaboration and innovative problem solving in a high-stake setting and committed to team improvement and impacting team success.
+
+## Career Highlilghts
+
+-   Developed and maintained working knowledge of credit risk databases to provide data and analytical support to senior management
+
+
+## Professional Experience
+
+- *Research Assistant,Memorial University of Newfoundland*
+
+  - Summarized research results by preparing written reports, graphs, fact sheets and tables 
+
+  - Developed macros, special formulas, and other actions to produce reliable and consistent statistical reviews using E-views and STATA 
+
+  - Gathered research data to create representative visuals and executed empirical research in growth analytics 
+Built, maintained, and runned complex financial models  
+
+  - Participated in the departments seminar series that focused on various bothering the Canadian and global economy
+
+-   *Credit Risk Analyst, Asa Savings and Loans Limited*:
+
+    -   GECON 7000, MAE Research Project\
+    -   GECON 7003, Cost-Benefit Analysis
+
+
+-   *Investment Officer, Kamaag Kapital Limited*
+
+    -   Economics 2020, Introductory Macroeconomics
+
+
+-   *Research and Evaluation Personnel, PBC Limited*
+
+    -   Dhingra, Vaishali (2022, M.A. in Applied Economics, University of Winnipeg)
+
+-   *Customer Lifecycle Management (Intern), Absa Bank Ghana*:
+
+    -   Khawar, Hibah (2018, M.Sc Food and Human Nutritional Sciences, University of Manitoba)
+
+
+-   *Uderwriter (Inter), Equity Assurance PLC *:
+
+    -   Charlotte Belbas, Lab instructor for Econ 3201 Introduction to Econometrics, September 7 - December 6, 2021.
+    -   Sadia Zohaib (MAE, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, September 8 - December 4, 2020.
+    -   Joy Dakil (MAEP, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, January 6 - April 4, 2020.
+
+
 ## Education
 
 -   M.A. Economics (2023 to date), Memorial University of Newfoundland\
@@ -21,87 +72,15 @@ title: "CV"
 -   Investment and Securities Certificate (2018), Ghana Stock Exchange School
 -   B.A. Economics with Mathematics (2016), University of Ghana, Legon
 
-## Professional Summary
 
--   High performing financial professional with five years of experience in data analysis, investment advisory, credit risk analysis, economic analysis, and people management. Technically astute and proficient in gathering, analyzing, and forecasting panel data, time series, cross-sectional and pooled data. Strong track record of inspiring effective cross functional collaboration and innovative problem solving in a high-stake setting and committed to team improvement and impacting team success. 
+## Volunteering
 
-## Career Highlilghts
-
-- •	Developed and maintained working knowledge of credit risk databases to provide data and analytical support to senior management 
-
-## Fields of Specialization
-
--   Health Economics
--   Econometrics and Statistics
-
-## Professional Affiliations
-
--   Canadian Economics Association
--   Canadian Health Economic Association
--   Canadian Econometric Study Group
--   American Economics Association
-
-
-
-### University of Winnipeg
-
--   *Graduate*:
-
-    -   GECON 7000, MAE Research Project\
-    -   GECON 7003, Cost-Benefit Analysis
-
--   *Undergraduate*:
-
-    -   ECON 1102, Intro - Microeconomics\
-    -   ECON 1103, Intro - Macroeconomics\
-    -   ECON 1201, Quantitative Methods for Business and Economics\
-    -   ECON 3201, Introduction to Econometrics\
-    -   ECON 3310, Economics of Canadian Health Care
-
-### Memorial University of Newfoundland
-
--   *Undergraduate*:
-
-    -   Economics 2020, Introductory Macroeconomics
-
-## Student Supervision and Training
-
--   *Thesis Supervisor*
-
-    -   Dhingra, Vaishali (2022, M.A. in Applied Economics, University of Winnipeg)
-
--   *Thesis Committee Member*:
-
-    -   Khawar, Hibah (2018, M.Sc Food and Human Nutritional Sciences, University of Manitoba)
-
--   *Research Assistants*:
-
-    -   Kashton, Jared (2021-present, M.A. Economics, York University)
-    -   Ahmed, Jamil (2020-2021, M.A. in Applied Economics, University of Winnipeg)
-    -   Epp, Tiffani (2020, B.A., University of Manitoba)
-    -   Goulet-Kilgor, Callum (2020, B.B.A. University of Winnipeg)
-    -   Eze, Nkiruka (2019-2020, M.A. Economics, University of Lancaster)
-    -   Awowole, Olusegun (2018, M.A.E.P. Economics, University of Winnipeg)
-    -   Ezeani, Chukwudi (2018, M.A.E.P. Economics, University of Winnipeg)
-
--   *Teaching Assistants*:
-
-    -   Charlotte Belbas, Lab instructor for Econ 3201 Introduction to Econometrics, September 7 - December 6, 2021.
-    -   Sadia Zohaib (MAE, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, September 8 - December 4, 2020.
-    -   Joy Dakil (MAEP, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, January 6 - April 4, 2020.
-
--   *Mentorship*:
-
-    -   2020-2021 CRDCN Policy challenge mentor for Adelia Jacobs, MSc Human Nutrition, University of British Columbia
-
-## Teaching Assistantships
-
--   *Graduate*:
+-   *Committee Member, 24th Aldrich Multidisciplinary Conference, Memorial University*:
 
     -   Econometrics I, McMaster University.\
     -   Microeconomics Theory for Public Policy, McMaster University.
 
--   *Undergraduate*:
+-   *Graduate Economics Student Representative, Faculty Council 2023, Memorial University*:
 
     -   Public Sector Economics, McMaster University.\
     -   Introductory Macroeconomics, McMaster University.\
@@ -112,57 +91,14 @@ title: "CV"
     -   Introductory Macroeconomics, McMaster University.
     -   International Monetary Economics, McMaster University.
 
--   *Other*:
+-   *Supervisor, Ghana Statistical Services*:
 
     -   English Teacher (2008-2009), Lycée Gambetta (Tourcoing, France).
 
-## University Service
+## Technical Skills
 
--   *Committees*:
+-   
 
-    -   Senate Student Appeals Committee (Member, 2021-)
-        -   University Study Leave Committee (Member, 2020-)
-        -   Department Curriculum Committee (Member, 2017-)
-        -   Department Research and Ethics Committee (Member, 2017-)
-        -   Department Personnel Sub-Committee for Candidate Search (Member, 2017-2018)
-
--   *Events*:
-
-    -   Open House 2021, February 10, 2021
-    -   First Year Orientation, September 2, 2020
-    -   Open House 2019, February 20, 2019
-
--   *Media*:
-
-    -   Interview for The University of Winnipeg NewsCentre, April 9, 2018. ([Link](http://news-centre.uwinnipeg.ca/allposts/does-heart-disease-lead-to-dementia/))
-
--   *External Service*:
-
-    -   Volunteer at the Cardiac Classic Golf Tournament (August 13th, 2018)
-
-
-## Awards
-
--   Canadian Journal of Public Health Editors Choice Award for \`\`Examining differences in diet quality between Canadian Indigenous and non-Indigenous adults: results from the 2004 and 2015 Canadian Community Health Survey Nutrition Surveys" with Natalie Riediger, Jeffrey Laplante, and Adriana Mudryj.(2022)
--   Certificate of Merit for Exceptional Performance as a Member of the Faculty of Business and Economics in the 2019-2020 Academic Year, University of Winnipeg. (2021)
-
-
-
-2.  Clair, Luc, Hope Anderson, Christopher Anderson, Okechukwu Ekuma, and Heather Prior. (2022). \`\`Cardiovascular Disease and the Risk of Dementia: A Survival Analysis Using Administrative Data from Canada". *Canadian Journal of Public Health*. DOI: [https://doi.org/10.17269/s41997-021-00589-2](https://link.springer.com/article/10.17269/s41997-021-00589-2).
-
-3.  Riediger, Natalie, Jeffrey Laplante, Adriana Mudryj, and Luc Clair. (2022). \`\`Examining differences in diet quality between Canadian Indigenous and non-Indigenous adults: results from the 2004 and 2015 Canadian Community Health Survey Nutrition Surveys". *The Canadian Journal of Public Health*. DOI: [10.17269/s41997-021-00580-x](https://link.springer.com/article/10.17269%2Fs41997-021-00580-x).
-
-4.  Riediger, Natalie, Laplante, Jeffrey, Mudryj, Adriana, and Clair, Luc. (2021). \`\`Diet quality among Indigenous and non-Indigenous children and youth in Canada in 2004 and 2015: a repeated cross-sectional design". *Public Health Nutrition*. Jun 10:1-10. DOI: [10.1017/S1368980021002561](https://www.cambridge.org/core/journals/public-health-nutrition/article/diet-quality-among-indigenous-and-nonindigenous-children-and-youth-in-canada-in-2004-and-2015-a-repeated-crosssectional-design/723ECCB88D8E26FB50B13E0FAFE3C036)
-
-5.  Mahon KN, SN Garland, G Eaton, K Chalifour, BE Lane, K Fowler, L Gambin, and L Clair. (2021). \`\`The Financial Impact of Cancer on Canadian Young Adults". *Journal of Cancer Survivorship: Research and Practice*.
-
-6.  Pauls, Samantha, Youjia Du, Luc Clair, Tanja Winter, Harold M. Aukema, Carla G. Taylor, Peter Zahradka. (2020). \`\`Impact of Age, Menopause, and Obesity on Oxylipins Linked to Vascular Health". *Arteriosclerosis, Thrombosis, and Vascular Biology*, 41(2): 883-897.
-
-7.  Gibson, Grant and Luc Clair. (2019). \`\`Oh Brother How Art Thou? Differential Reporting of Unmet Need - Evidence from Ontario". *Social Science and Medicine*. 243. 112632.
-
-8.  Clair, L. (2019), \`\`Nonparametric Kernel Regression Using Complex Survey Data", The Econometrics of Complex Survey Data. *Advances in Econometrics*, Vol. 39, Emerald Publishing Limited, Bingley, pp. 173-208.
-
-9.  Moghadasian, Mohammed H., Luc Clair, Francesca Bonomini, Gaia Favero, and Rita Rezzani. (2018). \`\`Obesity and Related Disorders: An International Perspective". *Current Research in Diabetes & Obesity Journal.* 7(5): 55721.
 
 
 
