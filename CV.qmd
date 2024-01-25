@@ -14,8 +14,6 @@ title: "CV"
      St. John's, NL\
      A1C 5S7
 
-
-
 ## Professional Summary
 
 -   High performing financial professional with five years of experience in data analysis, investment advisory, credit risk analysis, economic analysis, and people management. Technically astute and proficient in gathering, analyzing, and forecasting panel data, time series, cross-sectional and pooled data. Strong track record of inspiring effective cross functional collaboration and innovative problem solving in a high-stake setting and committed to team improvement and impacting team success.
@@ -24,30 +22,26 @@ title: "CV"
 
 -   Developed and maintained working knowledge of credit risk databases to provide data and analytical support to senior management
 
-
 ## Professional Experience
 
-- *Research Assistant,Memorial University of Newfoundland*
+-   *Research Assistant,Memorial University of Newfoundland*
 
-  - Summarized research results by preparing written reports, graphs, fact sheets and tables 
+    -   Summarized research results by preparing written reports, graphs, fact sheets and tables
 
-  - Developed macros, special formulas, and other actions to produce reliable and consistent statistical reviews using E-views and STATA 
+    -   Developed macros, special formulas, and other actions to produce reliable and consistent statistical reviews using E-views and STATA
 
-  - Gathered research data to create representative visuals and executed empirical research in growth analytics 
-Built, maintained, and runned complex financial models  
+    -   Gathered research data to create representative visuals and executed empirical research in growth analytics Built, maintained, and runned complex financial models
 
-  - Participated in the departments seminar series that focused on various bothering the Canadian and global economy
+    -   Participated in the departments seminar series that focused on various bothering the Canadian and global economy
 
 -   *Credit Risk Analyst, Asa Savings and Loans Limited*:
 
     -   GECON 7000, MAE Research Project\
     -   GECON 7003, Cost-Benefit Analysis
 
-
 -   *Investment Officer, Kamaag Kapital Limited*
 
     -   Economics 2020, Introductory Macroeconomics
-
 
 -   *Research and Evaluation Personnel, PBC Limited*
 
@@ -57,13 +51,11 @@ Built, maintained, and runned complex financial models
 
     -   Khawar, Hibah (2018, M.Sc Food and Human Nutritional Sciences, University of Manitoba)
 
-
--   *Uderwriter (Inter), Equity Assurance PLC *:
+-   *Uderwriter (Inter), Equity Assurance PLC* :
 
     -   Charlotte Belbas, Lab instructor for Econ 3201 Introduction to Econometrics, September 7 - December 6, 2021.
     -   Sadia Zohaib (MAE, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, September 8 - December 4, 2020.
     -   Joy Dakil (MAEP, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, January 6 - April 4, 2020.
-
 
 ## Education
 
@@ -71,7 +63,6 @@ Built, maintained, and runned complex financial models
 -   PGD. Economics (2023), Memorial University of Newfoundland
 -   Investment and Securities Certificate (2018), Ghana Stock Exchange School
 -   B.A. Economics with Mathematics (2016), University of Ghana, Legon
-
 
 ## Volunteering
 
@@ -98,9 +89,6 @@ Built, maintained, and runned complex financial models
 ## Technical Skills
 
 -   
-
-
-
 
 ## Languages
 
