@@ -4,7 +4,7 @@ title: "CV"
 
 ## Contact Information
 
-{{< fa envelope >}} [gnaboadi\@mun.ca]
+{{< fa envelope >}} [gnaboadi\@mun.ca](mailto:gnaboadi@mun.ca)
 
 {{< fa phone >}} (709) 219-6808
 
@@ -25,11 +25,9 @@ title: "CV"
 
 -   High performing financial professional with five years of experience in data analysis, investment advisory, credit risk analysis, economic analysis, and people management. Technically astute and proficient in gathering, analyzing, and forecasting panel data, time series, cross-sectional and pooled data. Strong track record of inspiring effective cross functional collaboration and innovative problem solving in a high-stake setting and committed to team improvement and impacting team success. 
 
-## Previous Positions
+## Career Highlilghts
 
--   Assistant Professor, Part-Time Nil Salary (2019-2022), Department of Community Health Sciences, University of Manitoba.
--   Assistant Professor (2017-2022), Department of Economics, University of Winnipeg.
--   Postdoctoral Fellow (2016-2017), Memorial University of Newfoundland (Supervisor Dr. Lynn Gambin)
+- •	Developed and maintained working knowledge of credit risk databases to provide data and analytical support to senior management 
 
 ## Fields of Specialization
 
