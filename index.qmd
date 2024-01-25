@@ -9,7 +9,7 @@ format: html
 
 ::: columns
 ::: {.column width="40%"}
-  ![](WhatsApp Image 2024-01-25 .jpg)
+  ![](Gloria Nana Ama Boadi -1993-10-16 Digital Photo jpg.jpg)
 :::
 
 ::: {.column width="60%"}
