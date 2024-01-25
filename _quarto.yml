@@ -10,6 +10,15 @@ website:
         text: "{{< fa house >}} Home"
       - href: CV.qmd
         text: "{{< fa user-tie >}} CV"
+        
+        
+    right:
+      - href: Contact.qmd
+        text: "{{< fa envelope >}} Contact"
+      - href: https://github.com/clairl
+        icon: github
+      - href: https://twitter.com/Luc_Clair
+        icon: twitter    
 
 format:
   html:
