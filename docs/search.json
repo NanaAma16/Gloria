@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Gloria Nana Ama Boadi",
     "section": "",
-    "text": "Graduate Student\nDepartment of Economics\nMemorial University of Newfoundland\nGraduate Research and Teaching Assistant\nDepartment of Economics\nMemorial University of Newfoundland"
+    "text": "Graduate Student\nDepartment of Economics\nMemorial University of Newfoundland\nGraduate Research/Teaching Assistant\nDepartment of Economics\nMemorial University of Newfoundland"
   },
   {
     "objectID": "index.html#about",
@@ -82,47 +82,5 @@
     "title": "CV",
     "section": "Technical Skills",
     "text": "Technical Skills\n\nPython\nR\nStata\nLatex\nJabRef\nMicrosoft Suite (Excel, Word,Powerpoint)\nJupyther Notebook\nGitHub"
-  },
-  {
-    "objectID": "Assignment 1 Solution.html",
-    "href": "Assignment 1 Solution.html",
-    "title": "ECON 6051\nSpecial Topics in Economics",
-    "section": "",
-    "text": "Please submit your assignment by 5PM on Friday January 26th. To submit your assignment, upload your assignment PDF and Quarto document. If you choose to use Stata for your analysis, please upload a copy of your log file."
-  },
-  {
-    "objectID": "Assignment 1 Solution.html#due-date",
-    "href": "Assignment 1 Solution.html#due-date",
-    "title": "ECON 6051\nSpecial Topics in Economics",
-    "section": "",
-    "text": "Please submit your assignment by 5PM on Friday January 26th. To submit your assignment, upload your assignment PDF and Quarto document. If you choose to use Stata for your analysis, please upload a copy of your log file."
-  },
-  {
-    "objectID": "Assignment 1 Solution.html#directions",
-    "href": "Assignment 1 Solution.html#directions",
-    "title": "ECON 6051\nSpecial Topics in Economics",
-    "section": "Directions",
-    "text": "Directions\nAnswer all questions in the space provided, and use Quarto and/or LaTeX. The assignment is divided into three sections, Quarto, Econometric Theory, and Analysis."
-  },
-  {
-    "objectID": "Assignment 1 Solution.html#quarto",
-    "href": "Assignment 1 Solution.html#quarto",
-    "title": "ECON 6051\nSpecial Topics in Economics",
-    "section": "Quarto",
-    "text": "Quarto\n\nCreate a personal Quarto website hosted on GitHup pages. For this question, you only have to write the link to your page. Please see the video tutorial entitled “Create_Quarto_Website” posted on Nexus. For reference, you can check out my GitHub repository at https://github.com/clairl/clairl.github.io (be sure to check out the “_quarto.yml” file for help with the navigation bar). Your website should include the following:\n\nAn “Index” or “Home” page. This page should include the following:\n\nYour name\nYour photo\nYour credentials\nAn “About Me” section that provides a brief (one paragraph) introduction to yourself.\n\nA Curriculum Vitae page\n\nYou may choose to upload a file or write your info on the page.\n\nContact Information\nNavigation bar with “Home”, “CV”, and “Contact” Buttons. The navigation bar is edited in the “_quarto.yml” file."
-  },
-  {
-    "objectID": "Assignment 1 Solution.html#theory",
-    "href": "Assignment 1 Solution.html#theory",
-    "title": "ECON 6051\nSpecial Topics in Economics",
-    "section": "Theory",
-    "text": "Theory\n\nDefine the following terms in a sentence (or short paragraph) and state the formula if appropriate.\n\n\n\nHeteroskedasticity\n\n\n\n\nWhite Heteroskedasticity-Consistent Estimator (Use matrix notation in your definition)\n\n\n\n\nBias of an estimator\n\n\n\nConsider the ML and OLS estimators of the population variance, \\(\\tilde\\sigma^2=n^{-1}\\sum(X_i-\\bar X)^2\\) and \\(\\hat\\sigma^2=(n-1)^{-1}\\sum(X_i-\\bar X)^2\\), where the \\(X_i\\) represent independent draws from a common distribution.\n\nAssume that \\(X\\sim N(\\mu,\\sigma^2)\\). What is the (theoretical) finite-sample bias of \\(\\hat\\sigma^2\\) and \\(\\tilde\\sigma^2\\)?"
-  },
-  {
-    "objectID": "Assignment 1 Solution.html#analysis",
-    "href": "Assignment 1 Solution.html#analysis",
-    "title": "ECON 6051\nSpecial Topics in Economics",
-    "section": "Analysis",
-    "text": "Analysis\n\nIn this question we compare standard errors based on (incorrect) asymptotic assumptions with those based on alternate (appropriate) estimator (White). Consider one sample drawn from the following data generating process (DGP) which we will simulate in R:\n\nljt set.seed(123) n &lt;- 25 x &lt;- rnorm(n,mean=0.0,sd=1.0) beta0 &lt;- 1 beta1 &lt;- 0 ## x is irrelevant in this model, the data generating process is as follows: dgp &lt;- beta0 + beta1*x ## The residual is heteroskedastic by construction e &lt;- x^2*rnorm(n,mean=0.0,sd=1.0) y &lt;- dgp + e}\n\n\nCompute the OLS estimator of \\(\\beta_2\\) and its standard error using the lm() command in R or the reg command in Stata for the model \\(y_i=\\beta_1+\\beta_2 x_i+\\epsilon_i\\) based on the DGP given above. Next, compute the standard error of \\(\\hat\\beta_2\\) by computing \\(\\hat\\sigma^2(X'X)^{-1}\\) in using matrix commands in R or Stata, and verify that the two standard error estimates are identical.\n\n\n\n\nCompute White’s heteroskedasticity consistent covariance matrix estimator (you may use the written functions, e.g., hccm function with the option type=\"hc0\" from the R package car) and report the White estimator of the standard error of \\(\\hat\\beta_2\\). Compare this with that from a) above.\n\n\n\nUse the state-level data on murder rates and executions in MURDER for the following exercise. If you are using R, save the file “murder.RData” to your working directory and use the command load(Murder.RData).\n\n\n\nConsider the unobserved effects model \\[mrdrte_{it}=\\eta_t+\\beta_1exec_{it}+\\beta_2unem{it}+a_i+u_i\\] where \\(\\eta_t\\) simply denotes different year intercepts and \\(a_i\\) is the unobserved state effect. If past executions of convicted murderers have a deterrent effect, what should be the sign of \\(\\beta_1\\)? What sign do you think \\(\\beta_2\\) should have? Explain?\n\n\n\n\nUsing just the years 1990 and 1993, estimate the population equation from part i) by pooled OLS.\n\n\n\n\nNow, using 1990 and 1993, estimate the equation by fixed effects. You may use first differencing because yo are only using two years of data. Is there evidence of a deterrent effect? How strong?\n\n\n\n\nCompute the heteroskedasticity-robust standard error for the estimation in part b).\n\n\n\n\nUse all three years of data and estimate the model by fixed effects. Discuss the size and statistical significance of the deterrent effect compared with only using 1990 and 1993."
   }
 ]
