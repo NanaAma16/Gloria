@@ -1,3 +1,16 @@
 ---
-title: "Contact"
+title: "Contact Information"
+editor:  visual
 ---
+
+{{< fa envelope >}} [gnaboadi\@mun.ca](mailto:gnaboadi@mun.ca)
+
+{{< fa phone >}} (709) 219-6808
+
+{{< fa paper-plane >}} Department of Economics\
+     Memorial University of Newfoundland\
+     100 Elizabeth Avenue\
+     St. John's, NL\
+     A1C 5S7
+
+

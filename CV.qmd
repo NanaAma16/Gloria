@@ -30,7 +30,7 @@ title: "CV"
 
     -   Developed macros, special formulas, and other actions to produce reliable and consistent statistical reviews using E-views and STATA
 
-    -   Gathered research data to create representative visuals and executed empirical research in growth analytics Built, maintained, and runned complex financial models
+    -   Assist with exams supervision and grading.
 
     -   Participated in the departments seminar series that focused on various bothering the Canadian and global economy
 
@@ -67,9 +67,9 @@ title: "CV"
     
 -   *Uderwriter (Inter), Equity Assurance PLC* :
 
-    -   Charlotte Belbas, Lab instructor for Econ 3201 Introduction to Econometrics, September 7 - December 6, 2021.
-    -   Sadia Zohaib (MAE, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, September 8 - December 4, 2020.
-    -   Joy Dakil (MAEP, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, January 6 - April 4, 2020.
+    -  Examining Insurance Proposals
+    -  Determining appropriate premiums and amount of coverage
+    -  Filing
 
 ## Education
 
@@ -80,11 +80,11 @@ title: "CV"
 
 ## Volunteering
 
--   *Committee Member, 24th Aldrich Multidisciplinary Conference, Memorial University*:
+-   *Committee Member, 24th Aldrich Multidisciplinary Conference, Memorial University*
 
 -   *2023-24 Faculty Council of Humanities and Social Sciences(Economics Graduate Students Rep)*
 
--   *Supervisor, Ghana Statistical Services (GSS)*:
+-   *Supervisor, Ghana Statistical Services (GSS)*
 
 
 
