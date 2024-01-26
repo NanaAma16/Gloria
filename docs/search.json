@@ -11,7 +11,7 @@
     "href": "index.html#about",
     "title": "Gloria Nana Ama Boadi",
     "section": "About",
-    "text": "About\nI am a Graduate student at the Memorial University of Newfoundlands studying M.A. Economics.. My research program is broad and covers a myriad of areas in applied and theoretical economics, health policy, nutrition, chronic disease, and statistics. My current research is focused on the economic development of Canadian First Nations communities through improvements in water infrastructure, nutrition, and overall health"
+    "text": "About\nI am a Graduate student at the Memorial University of Newfoundland studying M.A. Economics.I am deeply passionate about advancing my knowledge in the field. My academic journey is complemented by hands-on experience as a research/teaching assistant. This experience has not only sharpened my analytical and research skills but has also given me a nuanced understanding of various economic concepts."
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "CV.html#professional-experience",
     "title": "CV",
     "section": "Professional Experience",
-    "text": "Professional Experience\n\nResearch Assistant,Memorial University of Newfoundland\n\nSummarized research results by preparing written reports, graphs, fact sheets and tables\nDeveloped macros, special formulas, and other actions to produce reliable and consistent statistical reviews using E-views and STATA\nGathered research data to create representative visuals and executed empirical research in growth analytics Built, maintained, and runned complex financial models\nParticipated in the departments seminar series that focused on various bothering the Canadian and global economy\n\nCredit Risk Analyst, Asa Savings and Loans Limited:\n\nGECON 7000, MAE Research Project\n\nGECON 7003, Cost-Benefit Analysis\n\nInvestment Officer, Kamaag Kapital Limited\n\nEconomics 2020, Introductory Macroeconomics\n\nResearch and Evaluation Personnel, PBC Limited\n\nDhingra, Vaishali (2022, M.A. in Applied Economics, University of Winnipeg)\n\nCustomer Lifecycle Management (Intern), Absa Bank Ghana:\n\nKhawar, Hibah (2018, M.Sc Food and Human Nutritional Sciences, University of Manitoba)\n\nUderwriter (Inter), Equity Assurance PLC :\n\nCharlotte Belbas, Lab instructor for Econ 3201 Introduction to Econometrics, September 7 - December 6, 2021.\nSadia Zohaib (MAE, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, September 8 - December 4, 2020.\nJoy Dakil (MAEP, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, January 6 - April 4, 2020."
+    "text": "Professional Experience\n\nResearch Assistant,Memorial University of Newfoundland\n\nSummarized research results by preparing written reports, graphs, fact sheets and tables\nDeveloped macros, special formulas, and other actions to produce reliable and consistent statistical reviews using E-views and STATA\nGathered research data to create representative visuals and executed empirical research in growth analytics Built, maintained, and runned complex financial models\nParticipated in the departments seminar series that focused on various bothering the Canadian and global economy\n\nCredit Risk Analyst, Asa Savings and Loans Limited:\n\nSubmitted loan applications to underwriter for verification and recommendations\nReviewed, processed, closed and administered customer loan proposals\nRecommended loan approvals and denials based on customer loan application reviews\nMaintained strict confidentiality of bank records and client information\nCompiled database of loan applicants’ credit histories, corporate financial statements and other financial information\n\nInvestment Officer, Kamaag Kapital Limited\n\nDeveloped and presented detailed analysis of investment performance, portfolio attributes and benchmark composition to evaluate investment strategies\nResearched and shared recommendations on market trends and economic forecasts to support portfolio decisions\nProvided weekly reports to management on weekly performance\nUndertake public investment seminars\n\nResearch and Evaluation Personnel, PBC Limited\n\nAssisted in the conduct of research on the company’s operation\nComparative analysis of weekly purchases of districts in the cocoa regions\nSubmission of data of weekly purchases to COCOBOD\n\nCustomer Lifecycle Management (Intern), Absa Bank Ghana:\n\nManaging incoming calls and updating clients on new and existing products\nCreation of mobile banking accounts\nConnecting clients with the right team members when needed\n\nUderwriter (Inter), Equity Assurance PLC :\n\nCharlotte Belbas, Lab instructor for Econ 3201 Introduction to Econometrics, September 7 - December 6, 2021.\nSadia Zohaib (MAE, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, September 8 - December 4, 2020.\nJoy Dakil (MAEP, University of Winnipeg), TA for Econ 1201 Quantitative Methods for Economics and Business, January 6 - April 4, 2020."
   },
   {
     "objectID": "CV.html#education",
@@ -67,20 +67,13 @@
     "href": "CV.html#volunteering",
     "title": "CV",
     "section": "Volunteering",
-    "text": "Volunteering\n\nCommittee Member, 24th Aldrich Multidisciplinary Conference, Memorial University:\n\nEconometrics I, McMaster University.\n\nMicroeconomics Theory for Public Policy, McMaster University.\n\nGraduate Economics Student Representative, Faculty Council 2023, Memorial University:\n\nPublic Sector Economics, McMaster University.\n\nIntroductory Macroeconomics, McMaster University.\n\nIntermediate Microeconomics, McMaster University.\n\nEconomics Clinic, McMaster University.\n\nIntroductory Macroeconomics, McMaster University.\nIntroduction to Game Theory, McMaster University.\nIntroductory Macroeconomics, McMaster University.\nInternational Monetary Economics, McMaster University.\n\nSupervisor, Ghana Statistical Services:\n\nEnglish Teacher (2008-2009), Lycée Gambetta (Tourcoing, France)."
+    "text": "Volunteering\n\nCommittee Member, 24th Aldrich Multidisciplinary Conference, Memorial University:\n2023-24 Faculty Council of Humanities and Social Sciences(Economics Graduate Students Rep)\nSupervisor, Ghana Statistical Services (GSS):"
   },
   {
     "objectID": "CV.html#technical-skills",
     "href": "CV.html#technical-skills",
     "title": "CV",
     "section": "Technical Skills",
-    "text": "Technical Skills"
-  },
-  {
-    "objectID": "CV.html#languages",
-    "href": "CV.html#languages",
-    "title": "CV",
-    "section": "Languages",
-    "text": "Languages\n\nEnglish (Native)\nFrench: read, write, speak"
+    "text": "Technical Skills\n\nPython\nR\nStata\nLatex\nJabRef\nMicrosoft Suite (Excel, Word,Powerpoint)\nJupyther Notebook\nGitHub"
   }
 ]

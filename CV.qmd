@@ -36,21 +36,35 @@ title: "CV"
 
 -   *Credit Risk Analyst, Asa Savings and Loans Limited*:
 
-    -   GECON 7000, MAE Research Project\
-    -   GECON 7003, Cost-Benefit Analysis
-
+    -   Submitted loan applications to underwriter for verification and recommendations
+    -   Reviewed, processed, closed and administered customer loan proposals
+    -   Recommended loan approvals and denials based on customer loan application reviews
+    -   Maintained strict confidentiality of bank records and client information
+    -   Compiled database of loan applicants' credit histories, corporate financial statements and other financial information
+    
+    
+    
 -   *Investment Officer, Kamaag Kapital Limited*
 
-    -   Economics 2020, Introductory Macroeconomics
+    -   Developed and presented detailed analysis of investment performance, portfolio attributes and benchmark composition to evaluate investment strategies
+    -   Researched and shared recommendations on market trends and economic forecasts to support portfolio decisions
+    -   Provided weekly reports to management on weekly performance
+    -   Undertake public investment seminars
+    
 
 -   *Research and Evaluation Personnel, PBC Limited*
 
-    -   Dhingra, Vaishali (2022, M.A. in Applied Economics, University of Winnipeg)
+    -   Assisted in the conduct of research on the company's operation
+    -   Comparative analysis of weekly purchases of districts in the cocoa regions
+    -   Submission of data of weekly purchases to COCOBOD
 
 -   *Customer Lifecycle Management (Intern), Absa Bank Ghana*:
 
-    -   Khawar, Hibah (2018, M.Sc Food and Human Nutritional Sciences, University of Manitoba)
-
+    - 	Managing incoming calls and updating clients on new and existing products
+    -   Creation of mobile banking accounts
+    -   Connecting clients with the right team members when needed
+    
+    
 -   *Uderwriter (Inter), Equity Assurance PLC* :
 
     -   Charlotte Belbas, Lab instructor for Econ 3201 Introduction to Econometrics, September 7 - December 6, 2021.
@@ -68,29 +82,20 @@ title: "CV"
 
 -   *Committee Member, 24th Aldrich Multidisciplinary Conference, Memorial University*:
 
-    -   Econometrics I, McMaster University.\
-    -   Microeconomics Theory for Public Policy, McMaster University.
+-   *2023-24 Faculty Council of Humanities and Social Sciences(Economics Graduate Students Rep)*
 
--   *Graduate Economics Student Representative, Faculty Council 2023, Memorial University*:
+-   *Supervisor, Ghana Statistical Services (GSS)*:
 
-    -   Public Sector Economics, McMaster University.\
-    -   Introductory Macroeconomics, McMaster University.\
-    -   Intermediate Microeconomics, McMaster University.\
-    -   Economics Clinic, McMaster University.\
-    -   Introductory Macroeconomics, McMaster University.
-    -   Introduction to Game Theory, McMaster University.
-    -   Introductory Macroeconomics, McMaster University.
-    -   International Monetary Economics, McMaster University.
 
--   *Supervisor, Ghana Statistical Services*:
-
-    -   English Teacher (2008-2009), Lycée Gambetta (Tourcoing, France).
 
 ## Technical Skills
+- Python
+- R
+- Stata
+- Latex
+- JabRef
+- Microsoft Suite (Excel, Word,Powerpoint)
+- Jupyther Notebook
+- GitHub   
 
--   
 
-## Languages
-
--   English (Native)
--   French: read, write, speak
