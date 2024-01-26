@@ -17,8 +17,8 @@ website:
         text: "{{< fa envelope >}} Contact"
       - href: https://github.com/clairl
         icon: github
-      - href: https://twitter.com/Luc_Clair
-        icon: twitter    
+      - href: http://linkedin.com/in/gloria-nana-ama-boadi-a7a230144
+        icon: linkedin    
 
 format:
   html:
