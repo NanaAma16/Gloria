@@ -28,13 +28,8 @@ editor: visual
 
 \vspace{-0.5in}
 
-## Due Date {.unnumbered}
 
-Please submit your assignment by **5PM on Friday January 26th**. To submit your assignment, upload your assignment PDF and Quarto document. If you choose to use Stata for your analysis, please upload a copy of your log file.
 
-## Directions
-
-Answer all questions in the space provided, and use Quarto and/or LaTeX. The assignment is divided into three sections, Quarto, Econometric Theory, and Analysis.
 
 # Questions
 
