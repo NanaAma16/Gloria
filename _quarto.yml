@@ -15,7 +15,7 @@ website:
     right:
       - href: Contact.qmd
         text: "{{< fa envelope >}} Contact"
-      - href: https://github.com/clairl
+      - href: https://github.com/NanaAma16
         icon: github
       - href: http://linkedin.com/in/gloria-nana-ama-boadi-a7a230144
         icon: linkedin    
