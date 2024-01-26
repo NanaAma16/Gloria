@@ -16,7 +16,7 @@ title: "CV"
 
 ## Professional Summary
 
--   High performing financial professional with five years of experience in data analysis, investment advisory, credit risk analysis, economic analysis, and people management.Strong track record of inspiring effective cross functional collaboration and innovative problem solving in a high-stake setting and committed to team improvement and impacting team success.
+-   High performing financial professional with five years of experience in data analysis, investment advisory, credit risk analysis, economic analysis, and people management.Strong track record of inspiring effective cross functional collaboration and innovative problem solving in a high-stake setting and committed to team improvement and impacting team success
 
 ## Career Highlilghts
 
@@ -24,13 +24,13 @@ title: "CV"
 
 ## Professional Experience
 
--   *Research Assistant,Memorial University of Newfoundland*
+-   *Research/Teaching Assistant,Memorial University of Newfoundland*
 
     -   Summarized research results by preparing written reports, graphs, fact sheets and tables
 
-    -   Developed macros, special formulas, and other actions to produce reliable and consistent statistical reviews using E-views and STATA
+    -   Reviewing published literature and producing literature reviews
 
-    -   Assist with exams supervision and grading.
+    -   Assist with exams supervision and grading
 
     -   Participated in the departments seminar series that focused on various bothering the Canadian and global economy
 
