@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-PDF Version [here](Curriculum Vitae.pdf)
+PDF Version [here](docs\Curriculum-Vitae.pdf)
 
 ## Contact Information
 
