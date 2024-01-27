@@ -11,14 +11,7 @@
     "href": "index.html#about",
     "title": "Gloria Nana Ama Boadi",
     "section": "About",
-    "text": "About\nI am a Graduate student at the Memorial University of Newfoundland studying M.A. Economics.I am deeply passionate about advancing my knowledge in the field. My academic journey is complemented by hands-on experience as a research/teaching assistant. This experience has not only sharpened my analytical and research skills but has also given me a nuanced understanding of various economic concepts."
-  },
-  {
-    "objectID": "Contact.html",
-    "href": "Contact.html",
-    "title": "Contact Information",
-    "section": "",
-    "text": "gnaboadi@mun.ca\n (709) 219-6808\n Department of Economics\n     Memorial University of Newfoundland\n     100 Elizabeth Avenue\n     St. John’s, NL\n     A1C 5S7"
+    "text": "About\nI am a Graduate student at the Memorial University of Newfoundland studying M.A. Economics. I am deeply passionate about advancing my knowledge in the field. My academic journey is complemented by hands-on experience as a research/teaching assistant. This experience has not only sharpened my analytical and research skills but has also given me a nuanced understanding of various economic concepts."
   },
   {
     "objectID": "about.html",
@@ -28,18 +21,25 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact Information",
+    "section": "",
+    "text": "gnaboadi@mun.ca\n (709) 219-6808\n Department of Economics\n     Memorial University of Newfoundland\n     100 Elizabeth Avenue\n     St. John’s, NL\n     A1C 5S7"
+  },
+  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "gnaboadi@mun.ca\n (709) 219-6808\n Department of Economics\n     Memorial University of Newfoundland\n     100 Elizabeth Avenue\n     St. John’s, NL\n     A1C 5S7"
+    "text": "PDF Version here"
   },
   {
     "objectID": "CV.html#contact-information",
     "href": "CV.html#contact-information",
     "title": "CV",
-    "section": "",
-    "text": "gnaboadi@mun.ca\n (709) 219-6808\n Department of Economics\n     Memorial University of Newfoundland\n     100 Elizabeth Avenue\n     St. John’s, NL\n     A1C 5S7"
+    "section": "Contact Information",
+    "text": "Contact Information\n gnaboadi@mun.ca\n (709) 219-6808\n Department of Economics\n     Memorial University of Newfoundland\n     100 Elizabeth Avenue\n     St. John’s, NL\n     A1C 5S7"
   },
   {
     "objectID": "CV.html#professional-summary",
@@ -60,7 +60,7 @@
     "href": "CV.html#professional-experience",
     "title": "CV",
     "section": "Professional Experience",
-    "text": "Professional Experience\n\nResearch/Teaching Assistant,Memorial University of Newfoundland\n\nSummarized research results by preparing written reports, graphs, fact sheets and tables\nReviewing published literature and producing literature reviews\nAssist with exams supervision and grading\nParticipated in the departments seminar series that focused on various bothering the Canadian and global economy\n\nCredit Risk Analyst, Asa Savings and Loans Limited:\n\nSubmitted loan applications to underwriter for verification and recommendations\nReviewed, processed, closed and administered customer loan proposals\nRecommended loan approvals and denials based on customer loan application reviews\nMaintained strict confidentiality of bank records and client information\nCompiled database of loan applicants’ credit histories, corporate financial statements and other financial information\n\nInvestment Officer, Kamaag Kapital Limited\n\nDeveloped and presented detailed analysis of investment performance, portfolio attributes and benchmark composition to evaluate investment strategies\nResearched and shared recommendations on market trends and economic forecasts to support portfolio decisions\nProvided weekly reports to management on weekly performance\nUndertake public investment seminars\n\nResearch and Evaluation Personnel, PBC Limited\n\nAssisted in the conduct of research on the company’s operation\nComparative analysis of weekly purchases of districts in the cocoa regions\nSubmission of data of weekly purchases to COCOBOD\n\nCustomer Lifecycle Management (Intern), Absa Bank Ghana:\n\nManaging incoming calls and updating clients on new and existing products\nCreation of mobile banking accounts\nConnecting clients with the right team members when needed\n\nUderwriter (Inter), Equity Assurance PLC :\n\nExamining Insurance Proposals\nDetermining appropriate premiums and amount of coverage\nFiling"
+    "text": "Professional Experience\n\nResearch/Teaching Assistant,Memorial University of Newfoundland\n\nSummarized research results by preparing written reports, graphs, fact sheets and tables\nReviewing published literature and producing literature reviews\nAssist with exams supervision and grading\nParticipated in the departments seminar series that focused on various bothering the Canadian and global economy\n\nCredit Risk Analyst, Asa Savings and Loans Limited\n\nSubmitted loan applications to underwriter for verification and recommendations\nReviewed, processed, closed and administered customer loan proposals\nRecommended loan approvals and denials based on customer loan application reviews\nMaintained strict confidentiality of bank records and client information\nCompiled database of loan applicants’ credit histories, corporate financial statements and other financial information\n\nInvestment Officer, Kamaag Kapital Limited\n\nDeveloped and presented detailed analysis of investment performance, portfolio attributes and benchmark composition to evaluate investment strategies\nResearched and shared recommendations on market trends and economic forecasts to support portfolio decisions\nProvided weekly reports to management on weekly performance\nUndertake public investment seminars\n\nResearch and Evaluation Personnel, PBC Limited\n\nAssisted in the conduct of research on the company’s operation\nComparative analysis of weekly purchases of districts in the cocoa regions\nSubmission of data of weekly purchases to COCOBOD\n\nCustomer Lifecycle Management (Intern), Absa Bank Ghana:\n\nManaging incoming calls and updating clients on new and existing products\nCreation of mobile banking accounts\nConnecting clients with the right team members when needed\n\nUderwriter (Intern), Equity Assurance PLC :\n\nExamining Insurance Proposals\nDetermining appropriate premiums and amount of coverage\nFiling"
   },
   {
     "objectID": "CV.html#education",
